@@ -1,6 +1,6 @@
 # SQL :trollface: <sup>database</sup>
 
-* ``In 1.sql, write a SQL query to list the titles of all episodes in Cyberchase’s original season, Season 1.`` [here](https://github.com/JNRBK/SQL/blob/master/1.sql)
+* ``In 1.sql, write a SQL query to list the titles of all episodes in Cyberchase’s original season, Season 1.`` [here](https://github.com/JNRBK/SQL/blob/master/sql-0/1.sql)
 
 * ``In 2.sql, list the season number of, and title of, the first episode of every season.`` [here](https://github.com/JNRBK/SQL/blob/master/2.sql)
 
